@@ -9,7 +9,9 @@ body{
 	background: #18cfcf;
 	width: 90%;
 	max-width: 1000px;
-	margin-left:10cm;
+	margin-left:3cm;
+	margin-top: 1cm;
+	float: left;
 }
 
 .menu li a{
@@ -26,4 +28,12 @@ body{
 
 .menu li a:hover{
 	background: #0e8696;
+}
+
+.intel{
+	width: 20;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	float: left;
 }
