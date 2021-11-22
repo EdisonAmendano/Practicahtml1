@@ -72,7 +72,9 @@ table, th ,td{
 table{
 	width: 40%;
 }
-
+.ts{
+	width: 80%;
+}
 .p1{
 	width: 20%;
 	float: right;
@@ -81,9 +83,4 @@ table{
 .ar{
 	width: 75%;
 	float: left;
-}
-.nav{
-	width: 15%;
-	float: left;
-	margin-block-end: 50%;
 }
