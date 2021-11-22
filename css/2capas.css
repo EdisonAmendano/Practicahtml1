@@ -38,41 +38,16 @@ footer{
 	color: white;
 	float: left;
 }
-
-.top{
-	width: 100%;
-	display: inline-block;
+.nav{
+	width: 15%;
+	float: left;
+	margin-block-end: 50%;
 }
-
-img{
-	width: 60%;
-	margin-left: auto;
-	margin-right: auto;
-	transition: all 0.5s ease;
+.sec{
+	width: 80%;
+	float: left;
+	display: block;
 }
-img:hover{
-	transform: scale(0.9);
-}
-.pr{
-	width: 45%;
-	display: inline-block;
-	margin: auto;
-}
-
-.vi{
-	margin-left: auto;
-	margin-right: auto;
-	margin: auto;
-}
-
-table, th ,td{
-	border: 1px solid black;
-	border-collapse: collapse;
-}
-table{
-	width: 40%;
-}
-
 .p1{
 	width: 20%;
 	float: right;
@@ -82,8 +57,12 @@ table{
 	width: 75%;
 	float: left;
 }
-.nav{
-	width: 15%;
-	float: left;
-	margin-block-end: 50%;
+img{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	transition: all 0.5s ease;
+}
+img:hover{
+	transform: scale(0.9);
 }
